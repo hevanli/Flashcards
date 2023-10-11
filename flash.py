@@ -1,3 +1,9 @@
+# TODO:
+# if give up, add back to list
+# colored text
+# tell what number word you're on
+# UI
+
 # imports
 import random
 from pathlib import Path
